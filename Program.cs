@@ -1,7 +1,4 @@
-using System;
-using System.Windows.Forms;
-
-namespace baitaptrenlop
+namespace WinFormsApp5
 {
     internal static class Program
     {
